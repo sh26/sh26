@@ -1,4 +1,4 @@
-<img align="right" width="268" src="https://github.com/sh26/sh26/images/senior-software-engineer.gif" />
+<img align="right" width="268" src="https://github.com/sh26/sh26/blob/master/images/senior-software-engineer.gif" />
 
 ```go
 // +build Seoul, South Korea
